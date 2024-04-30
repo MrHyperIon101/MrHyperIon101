@@ -3,7 +3,7 @@
 <h3 align="center">CEO of ArcPlay Inc, Frontend Developer, Game Modder/Developer, Professional Multimedia Editor, Ethical Hacker, Audiophile, Web/UI/VFX/UX Designer.</h3>
 - 🔭 I’m currently working on [our company projects](https://www.patreon.com/ArcPlayInc)
 
-- 👨‍💻 All of our projects are available at [[https://www.arcplayinc.org/](https://www.arcplayinc.org/)
+- 👨‍💻 All of our projects are available at [[https://www.arcplayinc.org/]](https://www.arcplayinc.org/)
 
 - 📫 How to reach me **MrHyperIon@arcplayinc.org**
 
