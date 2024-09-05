@@ -1,6 +1,6 @@
 [![MasterHead](https://i.postimg.cc/9FG3KFkD/Untitled-6-modified-1.png)](https://www.arcplayinc.org/)
 <h1 align="center">Hi 👋, I'm Mr HyperIon</h1>
-<h3 align="center">CEO of ArcPlay Inc, Frontend Developer, Game Modder/Developer, Professional Multimedia Editor, Ethical Hacker, Audiophile, Web/UI/VFX/UX Designer.</h3>
+<h3 align="center">Full-Stack Developer, Game Modder/Developer, Professional Multimedia Editor, Ethical Hacker, Audiophile, Web/UI/VFX/UX Designer, Music Producer And 8D Creator. </h3>
 - 🔭 I’m currently working on [our company projects](https://www.patreon.com/ArcPlayInc)
 
 - 👨‍💻 All of our projects are available at [[https://www.arcplayinc.org/]](https://www.arcplayinc.org/)
