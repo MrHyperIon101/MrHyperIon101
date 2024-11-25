@@ -1,10 +1,10 @@
 [![MasterHead](https://i.postimg.cc/9FG3KFkD/Untitled-6-modified-1.png)](https://www.arcplayinc.org/)
 <h1 align="center">Hi 👋, I'm Souvik Bagchi (MrHyperIon)</h1>
-<h3 align="center">Full-Stack Developer, Game Modder/Developer, Professional Multimedia Editor, Ethical Hacker, Audiophile, Web/UI/VFX/UX Designer, Music Producer And 8D Creator.</h3>
+<h3 align="center">Full-Stack Developer, Game Modder/Developer, Professional Multimedia Editor, Audiophile, Web UI Designer, Music Producer And 8D Creator.</h3>
 
 - 🔭 I’m currently working on [GenesisOS](https://genesisos.in/)
 
-- 🌱 I’m currently learning **Data Analytics On Coursera**
+- 🌱 I’m currently learning **Data Analytics By Google On Coursera**
 
 - 👨‍💻 All of my projects are available at [https://www.arcplayinc.org/](https://www.arcplayinc.org/)
 
