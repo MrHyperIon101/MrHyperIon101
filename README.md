@@ -1,12 +1,10 @@
 [![MasterHead](https://i.postimg.cc/9FG3KFkD/Untitled-6-modified-1.png)](https://www.bytepinai.com/)
 <h1 align="center">Hi 👋, I'm Souvik Bagchi (MrHyperIon)</h1>
-<h3 align="center">Full-Stack Developer | Game Modder | UI/UX Designer | Video Editor | Music Producer | 8D Audio Creator</h3>
+<h3 align="center">Full-Stack Developer | Aspiring Data Scientist | Video Editor | Music Producer | 8D Audio Creator</h3>
 
 - 🔭 I’m currently working on [GenesisOS](https://genesisos.in/)
 
 - 🌱 I’m currently learning **Data Analytics By Google On Coursera**
-
-- 👨‍💻 All of my projects are available at [Here](https://www.bytepinai.com/)
 
 - 📫 How to reach me **mrhyperionai@gmail.com**
 
