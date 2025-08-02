@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Souvik Bagchi (MrHyperIon)</h1>
 <h3 align="center">Full-Stack Developer | Aspiring Data Scientist | Video Editor | Music Producer | 8D Audio Creator</h3>
 
-- 🔭 I’m currently working on [GenesisOS](https://genesisos.in/)
+- 🔭 I’m currently working on [PurixOS](https://purixos.tech/)
 
 - 🌱 I’m currently learning **Data Analytics By Google On Coursera**
 
