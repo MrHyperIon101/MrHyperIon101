@@ -18,9 +18,11 @@
 ⇒ **R&D & Innovation** - 3+ years across fintech, ad-tech, and enterprise SaaS | B.Tech AI/DS, Research (in-progress)
 
 ## 🚀 Current Status:
-- 🔭 I'm currently working on [PurixOS](https://purixos.tech/)
-- 🌱 I'm currently learning **Data Analytics By Google On Coursera**
-- 💡 Specializing in temporal pattern analysis and AI agent benchmarking
+- 🏢 Currently working as **Remote Lab Tester at Samsung Electronics**
+- 🎓 Pursuing **B.Tech CSE (Data Science) at Sikkim Manipal Institute of Technology** (2024)
+- 🔭 Building revolutionary projects: [PurixOS](https://purixos.tech/), [Momentum AI](https://momentum.bytepinai.com/welcome), [TechBuild AI](https://techbuild-wine.vercel.app/)
+- 🌱 **NVIDIA Developer Program** | **GitHub Developer Program** | **Windows Insider (Canary)** Member
+- 💡 Specializing in AI/ML solutions, full-stack development, and cloud platforms
 - 📫 How to reach me **mrhyperionai@gmail.com**
 - ⚡ Fun fact **What did the Sushi say to the bee? Wasabi!**
 
@@ -60,92 +62,79 @@
 </p>
 
 #### Core Technologies:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Cloud & Infrastructure:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 #### AI/ML & Data Science:
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![CUDA](https://img.shields.io/badge/CUDA-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 #### Frameworks & Libraries:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
 ---
 
-#### [AI Agents Reality Check](https://github.com/Cre4T3Tiv3/ai-agents-reality-check)
-**Mathematical benchmark exposing the massive performance gap between real agents and LLM wrappers.**   
-Rigorous multi-dimensional evaluation: stress testing, network resilience, ensemble coordination, and failure analysis.   
-Features statistical validation (95% confidence intervals, Cohen's h effect sizes) and reproducible methodology for separating architectural theater from real systems. 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/ai-agents-reality-check/main/docs/assets/ai_agents_reality_check_v0.1.0.jpeg" alt="AI Agent Reality Check social preview" width="500"/>
-</p>
+#### [Momentum - AI Task Hub](https://momentum.bytepinai.com/welcome)
+**Centralized AI Task Hub for smart task management**  
+Revolutionary AI-powered task management platform that streamlines productivity through intelligent automation and smart organization.
 
 ---
 
-#### [GitVoyant](https://github.com/Cre4T3Tiv3/gitvoyant)
-**Temporal Code Intelligence platform predicting quality evolution through Git history analysis.**  
-Conversational AI agent revealing code complexity trends, decay forecasting, and maintenance burden prediction. 
-Revolutionary approach to understanding codebase evolution using mathematical pattern analysis.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/gitvoyant/main/docs/assets/gitvoyant_v0.2.0.jpeg" alt="GitVoyant social preview" width="500"/>
-</p>
+#### [PurixOS](https://www.purixos.tech/)
+**Revolutionary custom operating system for the modern era**  
+Next-generation operating system built from the ground up with modern architecture, advanced security features, and innovative user interfaces.
 
 ---
 
-#### [LLM Prompt Debugger](https://github.com/Cre4T3Tiv3/llm-prompt-debugger)
-**Clean UI for LLM development workflows with prompt versioning and model selection.**  
-Built for engineers, not hype. Streamlined prompt → model → tag → export workflow.  
-*Currently supports OpenAI, Claude, and Ollama*
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/llm-prompt-debugger/main/docs/assets/llm_prompt_debugger_v0.1.0.gif" alt="LLM Prompt Debugger preview" width="600"/>
-</p>
+#### [TechBuild AI](https://techbuild-wine.vercel.app/)
+**AI-Powered PC Building & Analysis Platform**  
+Intelligent platform that analyzes hardware compatibility, performance optimization, and provides AI-driven recommendations for custom PC builds.
 
 ---
 
-#### [Unsloth LLaMA 3 Adapter (QLoRA)](https://github.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora)
-**Lightweight, instruction-tuned LoRA adapter for LLaMA 3 8B using 4-bit QLoRA.**  
-Fine-tuned with [Unsloth](https://github.com/unslothai/unsloth), optimized for consumer GPUs and agentic workflows.  
-*Check out my [HF Demo Space](https://huggingface.co/spaces/Cre4T3Tiv3/unsloth-llama3-alpaca-demo)*
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora/main/docs/assets/unsloth_llama3_alpaca_lora_v0.1.0.png" alt="Unsloth LLaMA 3 Adapter preview" width="500"/>
-</p>
+#### [TypeAce - Typing Speed Master](https://typeace-ochre.vercel.app/)
+**Modern typing test application to improve speed and accuracy**  
+Comprehensive typing training platform with advanced analytics, real-time feedback, and gamified learning experience.
 
 ---
 
-#### Additional AI Engineering Tools:
+#### [FinanceFlow](https://studio--financeflow-5pu0m.us-central1.hosted.app/dashboard)
+**AI-Powered Personal Finance Manager**  
+Intelligent financial management application using AI to provide personalized insights, budgeting recommendations, and financial planning tools.
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Cre4T3Tiv3/gocmitra">
-        <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/gocmitra/main/docs/assets/gocmitra_v0.1.0.jpg" alt="GoC Mitra preview" width="300"/><br/>
-        <strong>GoC Mitra</strong>
-      </a>
-      <p>
-        A fast, pluggable AI-powered Git commit assistant.<br/>
-        <em>Written in Go. Built for every stack.</em>
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Cre4T3Tiv3/llmops-dashboard">
-        <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/llmops-dashboard/main/docs/assets/llmops_dashboard_v0.2.0.jpeg" alt="LLMOps Dashboard preview" width="300"/><br/>
-        <strong>LLMOps Dashboard</strong>
-      </a>
-      <p>
-        A modular frontend framework to compose & debug prompt pipelines, visualize telemetry, & integrate custom LLMs.
-      </p>
-    </td>
-  </tr>
-</table>
+---
+
+#### EVENTIQ
+**Comprehensive event management application**  
+End-to-end event management platform with advanced planning tools, attendee management, and real-time analytics for event organizers.
+
+---
+
+## 🏆 Professional Achievements & Certifications
+
+### 🌟 Developer Programs & Communities:
+- **NVIDIA Developer Program** - Access to cutting-edge GPU computing tools and AI/ML frameworks
+- **GitHub Developer Program** - Building tools and integrations with GitHub APIs
+- **Windows Insider Program (Canary)** - Testing cutting-edge Windows features
+- **Google Developer Group (GDG) Kolkata & Siliguri** - Active community member
+- **Nothing Community** - Beta tester and community contributor
+
+### 📜 Recent Certifications:
+- **Generative AI with Vertex AI: Prompt Design** - Google Cloud (Jun 2025)
+- **Build a computer vision app with Azure Cognitive Services** - Microsoft (May 2025)
+- **Deep Learning with PyTorch: Image Segmentation** - Coursera (Apr 2025)
+- **A Tour of Firebase** - Google Cloud (Jun 2025)
+- **Getting started with Flutter Development** - Google Cloud Skills Boost (Jun 2025)
+- **Machine Learning Pipelines with Azure ML Studio** - Coursera (Apr 2025)
+- **Introduction to TensorFlow for Artificial Intelligence** - Coursera (Mar 2025)
+- **React - The Complete Guide** - Udemy (Jan 2025)
+- **Docker & Kubernetes: The Complete Guide** - Udemy (Dec 2024)
+- **Python for Data Science and Machine Learning** - Udemy (Nov 2024)
 
 ---
 
@@ -158,14 +147,24 @@ Fine-tuned with [Unsloth](https://github.com/unslothai/unsloth), optimized for c
 
 ---
 
-## What Sets This Work Apart
+## 💼 Services I Offer
 
-**Research Rigor** - Statistical validation (95% CI, Cohen's h), reproducible methodologies, mathematical analysis  
-**Mathematical Foundations** - Deep expertise in core ML mathematics applied to modern AI systems  
-**Innovation** - Temporal Intelligence and novel approaches that advance the field  
-**Practical Engineering** - Tools that solve real problems developers face daily  
-**Open Innovation** - Building in public with complete transparency and rigorous validation  
+**🌐 Full-Stack Development** - Building end-to-end web applications using React, Next.js, TypeScript, and Python  
+**🤖 AI/ML Solutions** - Developing AI-powered applications using TensorFlow, PyTorch, and NVIDIA CUDA  
+**☁️ Cloud & DevOps** - Implementing scalable solutions with GCP, Azure, Firebase, and automated CI/CD  
+**📱 Mobile Development** - Creating cross-platform apps using React Native, Flutter, and Android development  
+**📊 Data Science & Analytics** - Extracting insights using advanced analytics and machine learning models  
 
 ---
 
-*Research rigor • Mathematical depth • Innovation • Building next-generation AI/ML engineering software*
+## What Sets This Work Apart
+
+**Research Rigor** - Statistical validation, reproducible methodologies, and mathematical analysis  
+**Innovation Leadership** - Building revolutionary solutions like PurixOS and AI-powered platforms  
+**Industry Experience** - Samsung Electronics testing, NVIDIA/GitHub developer programs  
+**Educational Excellence** - B.Tech CSE (Data Science) with 16+ certifications earned  
+**Community Impact** - Active contributor to developer communities and open-source projects  
+
+---
+
+*Full-Stack Development • AI/ML Engineering • Cloud Solutions • Building next-generation software*
