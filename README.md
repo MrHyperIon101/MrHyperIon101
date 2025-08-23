@@ -2,9 +2,9 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Souvik+Bagchi+(MrHyperIon);AI+Software+Engineer;Full-Stack+Developer;Research+%26+Innovation+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Souvik+Bagchi;AI+Software+Engineer;Full-Stack+Developer;Research+%26+Innovation+Leader" alt="Professional Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Building+revolutionary+AI+solutions+%7C+Samsung+Electronics+Remote+Lab+Tester;B.Tech+CSE+(Data+Science)+%7C+NVIDIA+%26+GitHub+Developer+Programs;Specializing+in+AI%2FML%2C+Full-Stack+Development+%26+Cloud+Platforms" alt="Subtitle Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=4000&pause=1500&color=6C757D&center=true&vCenter=true&width=900&lines=Samsung+Electronics+Remote+Lab+Tester+%7C+B.Tech+CSE+(Data+Science);NVIDIA+Developer+Program+%7C+GitHub+Developer+Program+%7C+Windows+Insider;Specializing+in+AI%2FML%2C+Full-Stack+Development+%26+Cloud+Architecture" alt="Professional Subtitle" />
 
 </div>
 
@@ -12,17 +12,17 @@
 
 <div align="center">
   
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-FF5722?style=for-the-badge&logo=globe&logoColor=white)](https://www.souvikbagchi.social/)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-in&logoColor=white)](https://linkedin.com/in/bagchisouvik)
-[![Email](https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrhyperionai@gmail.com)
-[![Instagram](https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mrhyperion)
-[![YouTube](https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@VoxtronaMusic)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white&labelColor=FF5722)](https://www.souvikbagchi.social/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/bagchisouvik)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:mrhyperionai@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/mrhyperion)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://youtube.com/@VoxtronaMusic)
 
 </div> 
 
 ---
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=FF6B6B&center=false&vCenter=true&random=false&width=300&lines=About+Me" alt="About Me Typing" />
+# <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2500&pause=1000&color=2C3E50&center=false&vCenter=true&width=200&lines=About+Me" alt="About Me" />
 
 **AI Software Engineer** combining research rigor, mathematical depth, and innovative tool building to advance AI engineering through novel approaches and comprehensive developer workflows.
 
@@ -31,7 +31,7 @@
 ⇒ **Developer Tools** - Building comprehensive workflows that solve real engineering problems at scale  
 ⇒ **R&D & Innovation** - 3+ years across fintech, ad-tech, and enterprise SaaS | B.Tech AI/DS, Research (in-progress)
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=4ECDC4&center=false&vCenter=true&random=false&width=300&lines=%F0%9F%9A%80+Current+Status%3A" alt="Current Status Typing" />
+## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2000&pause=1000&color=34495E&center=false&vCenter=true&width=250&lines=🚀+Current+Status" alt="Current Status" />
 - 🏢 Currently working as **Remote Lab Tester at Samsung Electronics**
 - 🎓 Pursuing **B.Tech CSE (Data Science) at Sikkim Manipal Institute of Technology** (2024)
 - 🔭 Building revolutionary projects: [PurixOS](https://purixos.tech/), [Momentum AI](https://momentum.bytepinai.com/welcome), [TechBuild AI](https://techbuild-wine.vercel.app/)
@@ -42,13 +42,13 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1500&color=FFD93D&center=true&vCenter=true&random=false&width=800&lines=Mission%3A+Advancing+AI+engineering+through+research+rigor;Mathematical+depth+%26+innovative+tools;Empowering+both+humans+and+machines" alt="Mission Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1500&color=7F8C8D&center=true&vCenter=true&width=900&lines=Mission%3A+Advancing+AI+engineering+through+research+rigor;Mathematical+depth+and+innovative+tools;Empowering+both+humans+and+machines" alt="Mission Statement" />
 
 </div>
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=A8E6CF&center=false&vCenter=true&random=false&width=500&lines=%F0%9F%94%AC+Current+Research+%26+Innovation" alt="Research Typing" />
+## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=27AE60&center=false&vCenter=true&width=350&lines=🔬+Research+%26+Innovation" alt="Research" />
 
 **Temporal Intelligence** - Analyzing AI systems and code evolution patterns over time  
 **AI Agent Architecture** - Rigorous benchmarking and mathematical validation of agent systems  
@@ -57,11 +57,11 @@
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=FF9A8B&center=false&vCenter=true&random=false&width=400&lines=%F0%9F%92%BB+Tech+Stack+%26+Skills" alt="Tech Stack Typing" />
+### <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2000&pause=1000&color=3498DB&center=false&vCenter=true&width=300&lines=💻+Tech+Stack" alt="Tech Stack" />
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,c,dart,html,css,react,nextjs,angular,vue,svelte,nodejs,express,fastapi,django,flask,spring,flutter,reactnative,tailwind,bootstrap,firebase,aws,gcp,azure,docker,kubernetes,terraform,git,github,gitlab,vscode,figma,linux,ubuntu,arch,windows,bash,powershell,mysql,postgresql,mongodb,redis,sqlite,dynamodb,cassandra,elasticsearch,tensorflow,pytorch,opencv,cuda,jupyter,anaconda,postman,nginx,webpack,vite,npm,yarn,electron,tauri&perline=20" alt="Comprehensive tech stack skill icons" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,c,go,rust,dart,html,css,react,nextjs,angular,vue,svelte,nodejs,express,fastapi,django,flask,spring,flutter,reactnative,tailwind,bootstrap,firebase,aws,gcp,azure,docker,kubernetes,terraform,git,github,gitlab,vscode,figma,linux,ubuntu,arch,windows,bash,powershell,mysql,postgresql,mongodb,redis,sqlite,tensorflow,pytorch,opencv,jupyter,anaconda,postman,nginx,webpack,vite,npm,yarn,electron,tauri&perline=15" alt="Tech Stack Icons" />
   </a>
 </p>
 
@@ -94,7 +94,7 @@
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=6C5CE7&center=false&vCenter=true&random=false&width=400&lines=%F0%9F%9A%80+Featured+Projects" alt="Projects Typing" />
+### <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=8E44AD&center=false&vCenter=true&width=280&lines=🚀+Featured+Projects" alt="Projects" />
 
 ---
 
@@ -134,7 +134,7 @@ End-to-end event management platform with advanced planning tools, attendee mana
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=FD79A8&center=false&vCenter=true&random=false&width=600&lines=%F0%9F%8F%86+Professional+Achievements+%26+Certifications" alt="Achievements Typing" />
+## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=E67E22&center=false&vCenter=true&width=450&lines=🏆+Professional+Achievements" alt="Achievements" />
 
 ### 🌟 Developer Programs & Communities:
 - **NVIDIA Developer Program** - Access to cutting-edge GPU computing tools and AI/ML frameworks
@@ -157,7 +157,7 @@ End-to-end event management platform with advanced planning tools, attendee mana
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=00CEC9&center=false&vCenter=true&random=false&width=300&lines=%E2%9C%8D%EF%B8%8F+Random+Dev+Quote" alt="Quote Typing" />
+### <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1500&color=16A085&center=false&vCenter=true&width=220&lines=✍️+Dev+Quote" alt="Quote" />
 
 <div align="center">
   
@@ -167,7 +167,7 @@ End-to-end event management platform with advanced planning tools, attendee mana
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=74B9FF&center=false&vCenter=true&random=false&width=350&lines=%F0%9F%92%BC+Services+I+Offer" alt="Services Typing" />
+## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=2980B9&center=false&vCenter=true&width=280&lines=💼+Services+Offered" alt="Services" />
 
 **🌐 Full-Stack Development** - Building end-to-end web applications using React, Next.js, TypeScript, and Python  
 **🤖 AI/ML Solutions** - Developing AI-powered applications using TensorFlow, PyTorch, and NVIDIA CUDA  
@@ -177,7 +177,7 @@ End-to-end event management platform with advanced planning tools, attendee mana
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=E17055&center=false&vCenter=true&random=false&width=450&lines=What+Sets+This+Work+Apart" alt="Work Apart Typing" />
+## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=C0392B&center=false&vCenter=true&width=320&lines=What+Sets+Me+Apart" alt="Distinction" />
 
 **Research Rigor** - Statistical validation, reproducible methodologies, and mathematical analysis  
 **Innovation Leadership** - Building revolutionary solutions like PurixOS and AI-powered platforms  
@@ -189,6 +189,6 @@ End-to-end event management platform with advanced planning tools, attendee mana
 
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=2000&color=81ECEC&center=true&vCenter=true&random=false&width=800&lines=Full-Stack+Development+%E2%80%A2+AI%2FML+Engineering+%E2%80%A2+Cloud+Solutions;Building+next-generation+software+that+makes+a+difference" alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=4000&pause=2000&color=95A5A6&center=true&vCenter=true&width=900&lines=Full-Stack+Development+•+AI%2FML+Engineering+•+Cloud+Solutions;Building+next-generation+software+that+makes+a+difference" alt="Footer" />
 
 </div>
