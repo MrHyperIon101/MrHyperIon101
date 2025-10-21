@@ -31,7 +31,7 @@
 ⇒ **R&D & Innovation** - 3+ years across fintech, ad-tech, and enterprise SaaS | B.Tech AI/DS, Research (in-progress)
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2000&pause=1000&color=34495E&center=false&vCenter=true&width=250&lines=🚀+Current+Status" alt="Current Status" />
-- 🏢 Currently working as **Remote Lab Tester at Samsung Electronics**
+- 🏢 Currently working as **Campus Ambassador @Google and @LetsUpgrade**
 - 🎓 Pursuing **B.Tech CSE (Data Science) at Sikkim Manipal Institute of Technology** (2024)
 - 🔭 Building revolutionary projects: [PurixOS](https://purixos.tech/), [Momentum AI](https://momentum.bytepinai.com/welcome), [TechBuild AI](https://techbuild-wine.vercel.app/)
 - 🌱 **NVIDIA Developer Program** | **GitHub Developer Program** | **Windows Insider (Canary)** Member
