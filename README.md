@@ -1,4 +1,3 @@
-[![MasterHead](https://i.postimg.cc/9FG3KFkD/Untitled-6-modified-1.png)](https://www.souvikbagchi.social/)
 
 <div align="center">
   
