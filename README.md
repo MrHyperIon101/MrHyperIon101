@@ -4,7 +4,7 @@
   
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Souvik+Bagchi;AI+Software+Engineer;Full-Stack+Developer;Research+%26+Innovation+Leader" alt="Professional Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=4000&pause=1500&color=6C757D&center=true&vCenter=true&width=900&lines=Samsung+Electronics+Remote+Lab+Tester+%7C+B.Tech+CSE+(Data+Science);NVIDIA+Developer+Program+%7C+GitHub+Developer+Program+%7C+Windows+Insider;Specializing+in+AI%2FML%2C+Full-Stack+Development+%26+Cloud+Architecture" alt="Professional Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=4000&pause=1500&color=6C757D&center=true&vCenter=true&width=900&lines=Google+Campus+Ambassador+%7C+B.Tech+CSE+(Data+Science);NVIDIA+Developer+Program+%7C+GitHub+Developer+Program+%7C+Windows+Insider;Specializing+in+AI%2FML%2C+Full-Stack+Development+%26+Cloud+Architecture" alt="Professional Subtitle" />
 
 </div>
 
