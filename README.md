@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Souvik+Bagchi;Aspiring+Data+Scientist+%26+Software+Engineer;Google+Campus+Ambassador;Cloud+Innovator+%7C+OS+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi+there!+%F0%9F%91%8B+I'm+Souvik+Bagchi;Aspiring+Data+Scientist+%26+Software+Engineer;Google+Campus+Ambassador;Cloud+Innovator+%7C+OS+Developer" alt="Typing SVG" />
   
   <br/>
   
@@ -70,20 +70,7 @@ I'm a **B.Tech CSE (Data Science)** student at **Sikkim Manipal Institute of Tec
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrHyperIon101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6" height="180" alt="Souvik's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHyperIon101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6" height="180" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrHyperIon101&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=EF4444" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🏆 Featured Projects
 
@@ -111,15 +98,14 @@ I'm a **B.Tech CSE (Data Science)** student at **Sikkim Manipal Institute of Tec
 | **Getting started with Flutter Development** | Jun 2025 | Google Cloud Skills Boost |
 | **Build a computer vision app with Azure Cognitive Services** | May 2025 | Microsoft |
 | **Develop Clustering Models with Azure ML Designer** | May 2025 | Microsoft |
-| **Compare Stock Returns with Google Sheets** | Apr 2025 | Coursera |
-| **Create Charts and Dashboard using Google Sheets** | Apr 2025 | Coursera |
+
 | **Deep Learning with PyTorch : Image Segmentation** | Apr 2025 | Coursera |
 | **Developer Program Member** | Apr 2025 | NVIDIA |
 | **Get started with Asana** | Apr 2025 | Coursera |
 | **Getting Started in Google Analytics** | Apr 2025 | Coursera |
 | **Google Ads for Beginners** | Apr 2025 | Coursera |
 | **Machine Learning Pipelines with Azure ML Studio** | Apr 2025 | Coursera |
-| **Making a Full Website using WordPress** | Apr 2025 | Coursera |
+
 | **Strategically Build and Engage Your Network on LinkedIn** | Apr 2025 | Coursera |
 | **Windows Insider Program Member (Canary)** | Apr 2025 | Microsoft |
 | **GitHub Developer Program Member** | May 2024 | GitHub |
