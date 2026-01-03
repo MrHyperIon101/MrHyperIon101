@@ -3,9 +3,7 @@
   
   <br/>
   
-  <a href="https://github.com/MrHyperIon101">
-    <img src="https://komarev.com/ghpvc/?username=MrHyperIon101&style=for-the-badge&color=blueviolet" alt="Profile views" />
-  </a>
+
 </div>
 
 <div align="center">
@@ -83,34 +81,7 @@ I'm a **B.Tech CSE (Data Science)** student at **Sikkim Manipal Institute of Tec
 
 ---
 
-## 📜 Certifications & Achievements
 
-| Certification | Earning Date | Issuer |
-|:---|:---:|:---|
-| **Google Campus Ambassador** | Sep 2025 | Google |
-| **Google Cloud Innovator** | Sep 2025 | Google |
-| **Open Source Connect Campus Lead** | Jan 2026 | Open Source Connect |
-| **Google Cloud Security Summit (Asia Pacific)** | Sep 2025 | United Latino Students Association |
-| **AI Appreciate Badge - AI For All** | Aug 2025 | Intel Corporation |
-| **AI Aware Badge - AI For All** | Aug 2025 | Intel Corporation |
-| **A Tour of Firebase** | Jun 2025 | Google Cloud Training Online |
-| **Generative AI with Vertex AI: Prompt Design** | Jun 2025 | Google Cloud Training Online |
-| **Getting started with Flutter Development** | Jun 2025 | Google Cloud Skills Boost |
-| **Build a computer vision app with Azure Cognitive Services** | May 2025 | Microsoft |
-| **Develop Clustering Models with Azure ML Designer** | May 2025 | Microsoft |
-
-| **Deep Learning with PyTorch : Image Segmentation** | Apr 2025 | Coursera |
-| **Developer Program Member** | Apr 2025 | NVIDIA |
-| **Get started with Asana** | Apr 2025 | Coursera |
-| **Getting Started in Google Analytics** | Apr 2025 | Coursera |
-| **Google Ads for Beginners** | Apr 2025 | Coursera |
-| **Machine Learning Pipelines with Azure ML Studio** | Apr 2025 | Coursera |
-
-| **Strategically Build and Engage Your Network on LinkedIn** | Apr 2025 | Coursera |
-| **Windows Insider Program Member (Canary)** | Apr 2025 | Microsoft |
-| **GitHub Developer Program Member** | May 2024 | GitHub |
-
----
 
 <div align="center">
   <h3>🤝 Connect with Me</h3>
