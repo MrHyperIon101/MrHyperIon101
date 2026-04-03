@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/mrhyperion">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://voxtrona.souvikbagchi.social/">
+  <a href="https://www.souvikbagchi.social/">
     <img src="https://img.shields.io/badge/Portfolio-101827?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   
