@@ -74,7 +74,7 @@ I'm a **B.Tech CSE (Data Science)** student at **Sikkim Manipal Institute of Tec
 
 | Project | Description | Tech Stack |
 |:---|:---|:---:|
-| **[Voxtrona Music](https://voxtrona.souvikbagchi.in/)** | Premium music streaming app with Liquid Glass UI, lossless audio, and AI-powered features. Includes spatial audio & gapless playback. | `Kotlin` `Jetpack Compose` `AI` `Android` |
+| **[Voxtrona Music](https://voxtrona.in/)** | Premium music streaming app with Liquid Glass UI, lossless audio, and AI-powered features. Includes spatial audio & gapless playback. | `Kotlin` `Jetpack Compose` `AI` `Android` |
 | **[PurixOS](https://www.purixos.tech/)** | Revolutionary custom operating system with a custom kernel and unique visual language, optimized for speed and security. | `C++` `Assembly` `System Programming` |
 | **[QuickByte](https://quickb.vercel.app/)** | AI-powered food ordering platform with smart recommendations, QR ordering, and real-time tracking. | `Next.js` `TypeScript` `AI` `UPI` |
 | **[TechBuild AI](https://techbuildai.vercel.app/)** | Sophisticated AI platform for PC building. Generates compatible builds and provides upgrade advice using Gemini. | `Next.js` `Gemini` `Genkit` `ShadCN` |
